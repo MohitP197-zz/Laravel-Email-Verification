@@ -1,4 +1,4 @@
-Steps to use GitHub code:
+Steps to run the project:
 
 1.  Clone the repository in your local directory. 
 2.  Open the project in command prompt, go inside the root of the project, and then run "composer install" to install the dependencies and     after that run "composer update" to update the installed latest dependencies.
